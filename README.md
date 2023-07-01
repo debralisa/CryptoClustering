@@ -62,7 +62,7 @@ What is the impact of using fewer features to cluster the data using K-Means?
 
 ### File Names/Folder Names
 
-## ReadMe.md, Crypto_Clustering.ipynb, Resources folder containing data file: crypto_market_data.csv
+#### ReadMe.md, Crypto_Clustering.ipynb, Resources folder containing data file: crypto_market_data.csv
 
 ## Sources
 
